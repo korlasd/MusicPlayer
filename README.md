@@ -1,2 +1,3 @@
-# MusicPlayer
-一个由vue.js写的音乐播放器网页版
+＃网页音乐播放器
+### vue.js和axios的简单运用
+
